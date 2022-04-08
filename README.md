@@ -1,6 +1,6 @@
 # PowerShell : Gestionnaire de dossier
 
-
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/bbauer02/powershell-folder-manager)
 
 
 Ce script permet de créer un dossier dans le répertoire courant contenant un sous dossier numéroté automatiquement. 
